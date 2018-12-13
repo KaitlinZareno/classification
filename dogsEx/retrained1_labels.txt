@@ -1,0 +1,7 @@
+beagle
+bulldogs
+dalmatian
+golden retrievers
+husky
+rat
+rat environment
