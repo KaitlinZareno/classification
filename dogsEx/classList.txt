@@ -1,6 +1,16 @@
+
+ rocket.jpg
+rat environment 0.37675115
+rat 0.22687405
+dalmatian 0.10550611
+beagle 0.08547185
+bulldogs 0.07952552
+
+ lab.jpg
+golden retrievers 0.9521329
+bulldogs 0.02046887
+beagle 0.014675496
+rat 0.004226039
+dalmatian 0.0041978713
 rocket.jpg
-
-
 lab.jpg
-
-
