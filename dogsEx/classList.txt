@@ -1,16 +1,56 @@
 
+ bulldogEx.jpg
+bulldogs 0.99975103
+rat 5.3590797e-05
+rat environment 5.307288e-05
+golden retrievers 3.7447495e-05
+dalmatian 3.3478613e-05
+
+ dalmatianEx.jpg
+dalmatian 0.99974006
+monarch 6.332688e-05
+rat 5.301048e-05
+golden retrievers 4.4910365e-05
+husky 3.256439e-05
+
+ book.jpg
+rat environment 0.4392814
+rat 0.1814833
+husky 0.15377435
+monarch 0.06409512
+beagle 0.049782287
+
  rocket.jpg
-rat environment 0.37675115
-rat 0.22687405
-dalmatian 0.10550611
-beagle 0.08547185
-bulldogs 0.07952552
+rat environment 0.24325399
+rat 0.1951613
+monarch 0.17883262
+beagle 0.11239205
+dalmatian 0.09457796
+
+ grEx.jpg
+golden retrievers 0.9960653
+beagle 0.0009239055
+rat environment 0.00090302585
+dalmatian 0.0006783945
+husky 0.0004319145
 
  lab.jpg
-golden retrievers 0.9521329
-bulldogs 0.02046887
-beagle 0.014675496
-rat 0.004226039
-dalmatian 0.0041978713
+golden retrievers 0.905704
+beagle 0.061375875
+bulldogs 0.017321493
+dalmatian 0.0051074717
+rat 0.0036418596
+
+ rat1.jpg
+rat 0.98708135
+dalmatian 0.0026338738
+rat environment 0.0024499942
+husky 0.0017850548
+bulldogs 0.0016582005
+bulldogEx.jpg
+dalmatianEx.jpg
+book.jpg
 rocket.jpg
+grEx.jpg
 lab.jpg
+rat1.jpg

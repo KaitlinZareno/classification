@@ -11,9 +11,9 @@ f = open('classList.txt', 'w')
 path = '/home/kzareno/classification/dogsEx/*.jpg'  
 count =0
 
-x1 =  'label_image.py' 
-x2 = '--graph=./retrained1_graph.pb'
-x3 = '--labels=./retrained1_labels.txt'
+x1 =  './label_image.py' 
+x2 = '--graph=./output_graph.pb'
+x3 = '--labels=./output_labels.txt'
 x4 = '--input_layer=Placeholder'
 x5 = '--output_layer=final_result'
 

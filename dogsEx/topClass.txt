@@ -1,0 +1,21 @@
+
+ bulldogEx.jpg
+bulldogs 0.99975103
+
+ dalmatianEx.jpg
+dalmatian 0.99974006
+
+ book.jpg
+rat environment 0.4392814
+
+ rocket.jpg
+rat environment 0.24325399
+
+ grEx.jpg
+golden retrievers 0.9960653
+
+ lab.jpg
+golden retrievers 0.905704
+
+ rat1.jpg
+rat 0.98708135
